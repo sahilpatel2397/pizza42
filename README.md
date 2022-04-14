@@ -6,6 +6,12 @@ Pizza42 - Integrated with Auth0 Framework
 
 
 ```
+cd backend
 npm install
-npm install auth0
+npm start
+```
+```
+cd frontend
+npm install
+npm start
 ```
